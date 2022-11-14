@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  akhq:
+  - apiVersion: v1
+    appVersion: 0.22.0
+    created: "2022-11-14T10:03:08.422512-08:00"
+    description: Kafka GUI for Apache Kafka to manage topics, topics data, consumers
+      group, schema registry, connect and more...
+    digest: 66704d91e238e8aebff94198bcffa2c3beeed87f57dd36f245fa5eaf1896a811
+    home: https://akhq.io
+    icon: https://raw.githubusercontent.com/tchiotludo/akhq/master/client/src/images/logo_black.png
+    keywords:
+    - kafka
+    - confluent
+    - gui
+    - schema-registry
+    - kafka-connect
+    maintainers:
+    - email: tchiot.ludo@gmail.com
+      name: tchiotludo
+    name: akhq
+    sources:
+    - https://github.com/tchiotludo/akhq
+    urls:
+    - akhq-0.3.0.tgz
+    version: 0.3.0
+generated: "2022-11-14T10:03:08.419001-08:00"
